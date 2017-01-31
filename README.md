@@ -3,6 +3,9 @@
 
 This repository contains the source code from the Coding for Teens program at the Oak Harbor Library done in January 2017. This page serves as a review of the material covered during the 4 sessions. View a file to see more in depth information.
 
+Link to Week 2 webinar
+https://www.youtube.com/watch?v=WSr3krEADjI
+
 ###Comments
 a programmer-readable explanation in the source code of a computer program. The computer ignores comments. Can be single line comments or multi-line comments
 ```python
