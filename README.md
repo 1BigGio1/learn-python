@@ -52,33 +52,33 @@ avocado = 6.02
 ```python
 # addition
 print("5 + 2 =", 5 + 2)
-# 7
+# 5 + 2 = 7
 # notice that "5 + 2 =" is a string
 # notice that 5 + 2 is a computation
 
 # subtraction
 print("5 - 2 =", 5 - 2)
-# 3
+# 5 - 2 = 3
 
 # multiplication
 print("5 * 2 =", 5 * 2)
-# 10
+# 5 * 2 = 10
 
 # division
 print("5 / 2 =", 5 / 2)
-# 2.5
+# 5 / 2 = 2.5
 
 # modulus - gives the remainder after division
 print("5 % 2 =", 5 % 2)
-# 1
+# 5 % 2 = 1
 
 # exponents - 5 raised to the 2nd power
 print("5 ** 2 =", 5 ** 2)
-# 25
+# 5 ** 2 = 25
 
 # floor division - how many times will 2 evenly go into 5?
 print("5 // 2 =", 5 // 2)
-# 2
+# 5 // 2 = 2
 ```
 
 
